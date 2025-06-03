@@ -100,7 +100,7 @@ This project goes over how to turn on Remote Desktop and add users to the Accept
 
 <table>
   <tr>
-    <td><img src="https://imgur.com/tIS7xQd.png" height="50%" width="50%" /></td>
+    <td><img src="https://imgur.com/tIS7xQd.png" height="100%" width="100%" /></td>
   </tr>
 </table>
 
